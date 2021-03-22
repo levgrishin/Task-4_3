@@ -58,7 +58,7 @@ public class AbaString {
             int end = matcher3.end();
             System.out.println("Found match\n" + s3.substring(start, end) + "\nfrom " + start + " to " + (end - 1));
         }
-        System.out.println("Clean the text");*/
+        System.out.println("Clean the  text");*/
 
 
 
